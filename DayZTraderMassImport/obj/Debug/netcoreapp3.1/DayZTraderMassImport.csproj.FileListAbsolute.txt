@@ -1,0 +1,11 @@
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.exe
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.deps.json
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.runtimeconfig.json
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.runtimeconfig.dev.json
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.dll
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\bin\Debug\netcoreapp3.1\DayZTraderMassImport.pdb
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\obj\Debug\netcoreapp3.1\DayZTraderMassImport.csprojAssemblyReference.cache
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\obj\Debug\netcoreapp3.1\DayZTraderMassImport.AssemblyInfoInputs.cache
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\obj\Debug\netcoreapp3.1\DayZTraderMassImport.AssemblyInfo.cs
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\obj\Debug\netcoreapp3.1\DayZTraderMassImport.dll
+C:\Users\Florian\source\repos\DayZTraderMassImport\DayZTraderMassImport\obj\Debug\netcoreapp3.1\DayZTraderMassImport.pdb

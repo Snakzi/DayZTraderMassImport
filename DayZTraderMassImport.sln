@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayZTraderMassImport", "DayZTraderMassImport\DayZTraderMassImport.csproj", "{DB47D4BB-E22C-4CDE-9880-05C3BB000C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB47D4BB-E22C-4CDE-9880-05C3BB000C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB47D4BB-E22C-4CDE-9880-05C3BB000C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB47D4BB-E22C-4CDE-9880-05C3BB000C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB47D4BB-E22C-4CDE-9880-05C3BB000C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73381C0D-BE6A-4845-A67A-F62C36829CA5}
+	EndGlobalSection
+EndGlobal
